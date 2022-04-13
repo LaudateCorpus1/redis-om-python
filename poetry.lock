@@ -1126,7 +1126,7 @@ python-versions = "*"
 
 [[package]]
 name = "types-six"
-version = "1.16.10"
+version = "1.16.15"
 description = "Typing stubs for six"
 category = "main"
 optional = false
@@ -1893,8 +1893,8 @@ types-redis = [
     {file = "types_redis-4.1.13-py3-none-any.whl", hash = "sha256:2945b06fb68e55a81b0501060dd4aff9d772c7753106c6c79ace388072db9d7b"},
 ]
 types-six = [
-    {file = "types-six-1.16.10.tar.gz", hash = "sha256:78e6c0fe40c2958e2a95ab1e1adfbf3dab56894dc8cf590dae18fd69f3179eff"},
-    {file = "types_six-1.16.10-py2.py3-none-any.whl", hash = "sha256:1038d7a9a7d70004d69c94df97aa375ec177c0ee604bccb91465b1506c3972aa"},
+    {file = "types-six-1.16.15.tar.gz", hash = "sha256:d244f0537dab0d0570a5bc6f8a60c4da7f0546d960a8677520e6bff214a64fb8"},
+    {file = "types_six-1.16.15-py3-none-any.whl", hash = "sha256:18f6856a7df44fc7a292c2d73093908333e5f7cb858667b8cbefc8ed1e91942e"},
 ]
 typing-extensions = [
     {file = "typing_extensions-4.0.1-py3-none-any.whl", hash = "sha256:7f001e5ac290a0c0401508864c7ec868be4e701886d5b573a9528ed3973d9d3b"},
